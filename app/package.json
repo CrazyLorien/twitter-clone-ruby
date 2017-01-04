@@ -1,0 +1,30 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "Twitter clone on ruby and react",
+  "main": "main.jsx",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyLorien/twitter-clone-ruby.git"
+  },
+  "author": "Roman Ivanou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazyLorien/twitter-clone-ruby/issues"
+  },
+  "homepage": "https://github.com/CrazyLorien/twitter-clone-ruby#readme",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.9",
+    "babel-preset-es2015": "6.3.13",
+    "babel-preset-react": "6.3.13",
+    "react": "^15.4.1",
+    "webpack": "1.12.1"
+  }
+}
